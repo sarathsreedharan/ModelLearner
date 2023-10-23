@@ -1,0 +1,5 @@
+lifted_actions:
+  - unstack
+  - stack
+  - putdown
+  - pickup

@@ -1,0 +1,21 @@
+lifted_actions:
+  - forward-left
+  - forward-right
+  - forward-up
+  - forward-down
+  - pickup-left
+  - pickup-right
+  - pickup-up
+  - pickup-down
+  - drop-left
+  - drop-right
+  - drop-up
+  - drop-down
+  - toggle-left
+  - toggle-right
+  - toggle-up
+  - toggle-down
+  - toggle2-left
+  - toggle2-right
+  - toggle2-up
+  - toggle2-down

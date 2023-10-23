@@ -1,0 +1,5 @@
+lifted_actions:
+  - board
+  - depart
+  - up
+  - down

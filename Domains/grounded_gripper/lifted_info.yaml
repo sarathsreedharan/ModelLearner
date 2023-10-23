@@ -1,0 +1,4 @@
+lifted_actions:
+  - move
+  - pick
+  - drop
